@@ -18,9 +18,9 @@ Conecte-se comigo através das seguintes redes:
 
 ## 🚀 Projetos Destacados
 
-- 🎮 [teste](link_para_o_seu_projeto)
-- 📱 [teste](link_para_o_seu_projeto)
-- 💼 [teste](link_para_o_seu_projeto)
+- 📱 [Frontend ToDo List mobile](https://github.com/txKaue/frontendAppTask.git)
+- 🔄 [Backend ToDo List API](https://github.com/txKaue/backendAppTask.git)
+- 🎮 [Pong na Unity](link_para_o_seu_projeto)
 
 ## 📫 Como me Encontrar
 
