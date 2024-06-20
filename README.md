@@ -18,9 +18,9 @@ Conecte-se comigo através das seguintes redes:
 
 ## 🚀 Projetos Destacados
 
+- 📱 [Lista de compras mobile](https://github.com/txKaue/Lista-de-compras-Mobile.git)
 - 📱 [Frontend ToDo List mobile](https://github.com/txKaue/frontendAppTask.git)
 - 🔄 [Backend ToDo List API](https://github.com/txKaue/backendAppTask.git)
-- 📱 [Lista de compras mobile](https://github.com/txKaue/TelaDeJogosXbox.git)
 
 ## 📫 Como me Encontrar
 
