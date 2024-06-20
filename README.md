@@ -20,7 +20,7 @@ Conecte-se comigo através das seguintes redes:
 
 - 📱 [Frontend ToDo List mobile](https://github.com/txKaue/frontendAppTask.git)
 - 🔄 [Backend ToDo List API](https://github.com/txKaue/backendAppTask.git)
-- 🎮 [Clone "Meus jogos" do xbox one](https://github.com/txKaue/TelaDeJogosXbox.git)
+- 📱 [Lista de compras mobile](https://github.com/txKaue/TelaDeJogosXbox.git)
 
 ## 📫 Como me Encontrar
 
