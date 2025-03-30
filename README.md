@@ -4,10 +4,10 @@ Bem-vindo ao meu perfil do GitHub! Sou um entusiasta da programação apaixonado
 
 ## 💻 Linguagens e Tecnologias
 
-- **Backend**: Python, C#
-- **Frontend**: ReactJS, ReactTS, React Native
-- **Banco de Dados**: MySQL, Postgres, MongoDB
-- **Game Engines**: Unity
+- **Backend**: Python, Django
+- **Frontend**: ReactJS
+- **Banco de Dados**: MySQL, Postgres, MongoDB, SQLite
+- **Game Engines**: Godot, Unity, GDevelop
 
 ## 🌐 Redes Sociais
 
